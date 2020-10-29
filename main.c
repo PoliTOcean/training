@@ -2,6 +2,6 @@
 
 int main(int argc, const char *argv[])
 {
-    printf("hello arm!\n");
+    printf("hello shoulder!\n");
     return 0;
 }
