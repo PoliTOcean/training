@@ -6,6 +6,7 @@ void vision(void);
 int main(int argc, const char *argv[])
 {
     fprintf(stdout, "%s\n", "hello world!\n");
+    vision();
     return EXIT_SUCCESS;
 }
 
